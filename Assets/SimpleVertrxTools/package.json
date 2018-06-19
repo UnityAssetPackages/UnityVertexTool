@@ -1,0 +1,8 @@
+{
+    "name": "com.uap.unityvertextool",
+    "displayName": "Unity Vertex Tool",
+    "version": "0.0.1",
+    "unity": "2018.1",
+    "description": "This is the source code for Poly Toolkit, a plugin for the Unity engine that allows you to import 3D assets from Poly at edit time and at runtime.",
+    "dependencies": { }
+}
