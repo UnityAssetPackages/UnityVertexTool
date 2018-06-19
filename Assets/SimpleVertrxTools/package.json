@@ -3,6 +3,6 @@
     "displayName": "Unity Vertex Tool",
     "version": "0.0.1",
     "unity": "2018.1",
-    "description": "This is the source code for Poly Toolkit, a plugin for the Unity engine that allows you to import 3D assets from Poly at edit time and at runtime.",
+    "description": "A handy tool for Unity3D which gives you information about the vertex data on a mesh. Vertex Tool is a tool in Unity game engine which enables developers to debug the vertex data more easily and makes them have access to all this information through a simple UI.",
     "dependencies": { }
 }
